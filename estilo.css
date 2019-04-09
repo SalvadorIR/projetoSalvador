@@ -1,0 +1,31 @@
+body {
+    background: #33FF66;
+}
+
+.meu-nome {
+    color: #864848;
+    font-size: 30px; 
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.teste1 {
+    margin-top: 2px;
+    color: black;
+    background-color: #864848;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 3px;
+    font-size: xx-large;
+
+
+}
+
+.comentarioIdiota {
+    width: 30px;
+    height: 30px;
+    border: 5px solid;
+    border-color: #cccccc;
+    margin: 30px;
+
+}
